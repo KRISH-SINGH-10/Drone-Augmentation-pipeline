@@ -1,0 +1,22 @@
+# Local compatibility choices, not an upstream-provided lockfile.
+# This machine uses the CPU wheels from https://download.pytorch.org/whl/cpu.
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+transformers==4.46.3
+scipy
+tqdm
+trimesh
+pyquaternion
+natsort
+scikit-learn
+smplx
+einops
+tensorboard
+aitviewer
+scikit-video
+pillow
+matplotlib
+PyYAML
+sentencepiece
+protobuf

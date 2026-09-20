@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+myvenv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data / generated outputs
+data/
+datasets/
+TRUMANS/
+Recordings/
+outputs/
+runs/
+logs/
+*.mp4
+*.gif
+*.avi
+
+# Heavy / licensed model files
+checkpoints/
+models/
+smplx/
+SMPLX/
+*.ckpt
+*.pth
+*.pt
